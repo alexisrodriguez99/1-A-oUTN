@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1593655786 source:c:\users\aliw\desktop\labo1\practica3\controller.c
+
+1593656141 source:c:\users\aliw\desktop\labo1\practica3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593656141 c:\users\aliw\desktop\labo1\practica3\linkedlist.h
+
+1593656141 source:c:\users\aliw\desktop\labo1\practica3\log.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"log.h"
+
+1593656141 c:\users\aliw\desktop\labo1\practica3\log.h
+
+1514140574 source:c:\users\aliw\desktop\labo1\practica3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1593656141 source:c:\users\aliw\desktop\labo1\practica3\service.c
+	"service.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593656012 c:\users\aliw\desktop\labo1\practica3\service.h
+

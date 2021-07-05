@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591355269 source:c:\users\aliw\desktop\labo1\intento de strcpy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

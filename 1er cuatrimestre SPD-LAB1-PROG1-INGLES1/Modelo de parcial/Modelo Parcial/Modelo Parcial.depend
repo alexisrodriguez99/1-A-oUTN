@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1589376836 source:c:\users\franco\desktop\modelo de parcial\modelo parcial\input.c
+	"input.h"
+
+1589376836 c:\users\franco\desktop\modelo de parcial\modelo parcial\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589376836 source:c:\users\franco\desktop\modelo de parcial\modelo parcial\instrumento.c
+	"Musico.h"
+
+1589377220 c:\users\franco\desktop\modelo de parcial\modelo parcial\musico.h
+	"input.h"
+	"Orquesta.h"
+	"Instrumento.h"
+
+1589377124 c:\users\franco\desktop\modelo de parcial\modelo parcial\orquesta.h
+
+1589376836 c:\users\franco\desktop\modelo de parcial\modelo parcial\instrumento.h
+
+1589377132 source:c:\users\franco\desktop\modelo de parcial\modelo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Musico.h"
+
+1589377124 source:c:\users\franco\desktop\modelo de parcial\modelo parcial\orquesta.c
+	"Musico.h"
+
+1589377220 source:c:\users\franco\desktop\modelo de parcial\modelo parcial\musico.c
+	"Musico.h"
+

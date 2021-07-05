@@ -1,0 +1,139 @@
+# depslib dependency file v1.0
+1593533820 source:c:\users\franco\desktop\modelo 3\modelo 3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593533820 c:\users\franco\desktop\modelo 3\modelo 3\linkedlist.h
+
+1593548319 source:c:\users\franco\desktop\modelo 3\modelo 3\controller.c
+	"Controller.h"
+	"LinkedList.h"
+	"Log.h"
+	"Service.h"
+	"Input.h"
+
+1593547362 c:\users\franco\desktop\modelo 3\modelo 3\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1593544841 c:\users\franco\desktop\modelo 3\modelo 3\log.h
+	"LinkedList.h"
+
+1593544893 c:\users\franco\desktop\modelo 3\modelo 3\service.h
+	"LinkedList.h"
+
+1593539025 source:c:\users\franco\desktop\modelo 3\modelo 3\input.c
+	"input.h"
+
+1593539025 c:\users\franco\desktop\modelo 3\modelo 3\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1593546511 source:c:\users\franco\desktop\modelo 3\modelo 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+	"LinkedList.h"
+	"Log.h"
+	"Service.h"
+	"Parser.h"
+
+1593542698 source:c:\users\franco\desktop\modelo 3\modelo 3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Service.h"
+	"Log.h"
+
+1593546983 source:c:\users\franco\desktop\modelo 3\modelo 3\log.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Log.h"
+	"Service.h"
+	"input.h"
+
+1593544893 source:c:\users\franco\desktop\modelo 3\modelo 3\service.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Service.h"
+	"input.h"
+
+1593541638 c:\users\franco\desktop\modelo 3\modelo 3\parser.h
+
+1593548319 source:c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\controller.c
+	"Controller.h"
+	"LinkedList.h"
+	"Log.h"
+	"Service.h"
+	"Input.h"
+
+1593547362 c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1593533820 c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\linkedlist.h
+
+1593544841 c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\log.h
+	"LinkedList.h"
+
+1593544893 c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\service.h
+	"LinkedList.h"
+
+1593539025 c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1593539025 source:c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\input.c
+	"input.h"
+
+1593533820 source:c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593546983 source:c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\log.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Log.h"
+	"Service.h"
+	"input.h"
+
+1593548364 source:c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+	"LinkedList.h"
+	"Log.h"
+	"Service.h"
+	"Parser.h"
+
+1593541638 c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\parser.h
+
+1593542698 source:c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Service.h"
+	"Log.h"
+
+1593544893 source:c:\users\aliw\desktop\tp3 de frenco\modelo 3\modelo 3\service.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Service.h"
+	"input.h"
+

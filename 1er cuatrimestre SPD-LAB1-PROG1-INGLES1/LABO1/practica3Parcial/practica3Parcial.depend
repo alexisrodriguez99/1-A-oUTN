@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1593651917 source:c:\users\aliw\desktop\labo1\practica3parcial\controller.c
+
+1593651898 source:c:\users\aliw\desktop\labo1\practica3parcial\linkedlist.c
+
+1514140574 source:c:\users\aliw\desktop\labo1\practica3parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1593651784 source:c:\users\aliw\desktop\labo1\practica3parcial\parse.c
+
+1593651747 source:c:\users\aliw\desktop\labo1\practica3parcial\service.c
+
+1593653569 source:c:\users\aliw\desktop\labo1\practica3parcial\log.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"log.h"
+
+1593653459 c:\users\aliw\desktop\labo1\practica3parcial\log.h
+

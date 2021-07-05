@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595818601 source:c:\users\aliw\desktop\labo1\practicapararecu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588892756 source:c:\users\aliw\desktop\labo1\intento de hacer la funcion strlen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

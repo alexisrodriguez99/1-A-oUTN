@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1591275897 source:c:\users\aliw\desktop\labo1\1erparcialrecu\camiones.c
+	"camiones.h"
+
+1591243437 c:\users\aliw\desktop\labo1\1erparcialrecu\camiones.h
+	<stdio.h>
+	<stdlib.h>
+	"choferes.h"
+
+1591277035 c:\users\aliw\desktop\labo1\1erparcialrecu\choferes.h
+	<string.h>
+
+1591275972 source:c:\users\aliw\desktop\labo1\1erparcialrecu\camionxchofer.c
+	"CamionxChofer.h"
+
+1591273176 c:\users\aliw\desktop\labo1\1erparcialrecu\camionxchofer.h
+	"camiones.h"
+
+1591277034 source:c:\users\aliw\desktop\labo1\1erparcialrecu\choferes.c
+	"choferes.h"
+	<stdio.h>
+	<stdlib.h>
+
+1591277034 source:c:\users\aliw\desktop\labo1\1erparcialrecu\main.c
+	"CamionxChofer.h"
+
+1591236207 source:c:\users\aliw\desktop\labo1\1erparcialrecu\camionxmarca.c
+
+1591239081 source:c:\users\aliw\desktop\labo1\1erparcialrecu\marca.c
+

@@ -1,0 +1,15 @@
+se le agrega visual a los metedos o propiedades que quiera, 
+ademas de usarlas, modificarla. Esto solo en la clase base.
+[visibilidad]visual[retorno] nombreDelMetodo()
+
+Para despues utilizarla en la clase derivida con la palabra
+OVERRIDE.
+[visibilidad]override[retorno] nombreDelMetodo()
+
+las herencias tambien son del tipo de su antecesor
+base clase1
+derivada clase2 // esto me dice que clase2 es de tipo clase2 y
+clase1 es transitivo
+
+
+

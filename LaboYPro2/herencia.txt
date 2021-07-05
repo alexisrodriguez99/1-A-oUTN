@@ -1,0 +1,36 @@
+por herencia no puedo se hederar los CONSTRUCTORES, pero si
+los atriburos, metodos y propiedades, de forma implisita
+Se puede usar base:() para acceder al CONSTRUCTOR.
+this."algo" /*para referirme a un atributo propio de la clase
+y base."algo" para referirse al atributo "PADRE"*/
+y no puedo haceder a los miembros privados ni a los constructore
+LOS CONSTRUCTORES SON PROPIOS
+PROTECTED
+me permite que la visibilidad de mi atributo, metodo, etc.
+sea accesible a la clase hederada, pero no accesible a 
+otra clase
+
+a la hora de realizar un contructor en la clase hederada
+tengo que incluir el constructor padre con el base.()
+no pueden convivir un :base con un :this
+
+el nivel de vicivilad de una clase hija(derivad) no puede ser 
+mayor al nivel de vicivilidad padre(base)
+clase padre(publica) y clase hija(privada) ✔
+clase padre(privada) y clase hija(publica) X
+
+no se puede pasar un atributo por instancia(parametro)
+ya que me lo tomoraria que esta por fuera de la ralcion
+ de herencia
+
+clase base: Hola.
+private long 1;
+public int 2;
+protected string 3;
+claseError(Hola a)
+{
+   ConsoleWriteLine(Hola.1/*✔*/, Hola.2/*✔*/, Hola.3/*X*/)
+}
+no puedo accedeser mediante "Hola.3" a un atributo protected
+tiene que ser mediante base. o usarlo sin ser de instancia
+1:14:14

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1589426480 source:c:\users\aliw\desktop\labo1\parcial wpp\mascotas.c
+	"mascotas.h"
+
+1589424256 source:c:\users\aliw\desktop\labo1\parcial wpp\main.c
+	"MascotasClientes.h"
+
+1589407687 c:\users\aliw\desktop\labo1\parcial wpp\clientes.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1589425760 source:c:\users\aliw\desktop\labo1\parcial wpp\clientes.c
+	"clientes.h"
+
+1589429004 c:\users\aliw\desktop\labo1\parcial wpp\mascotas.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1589426218 source:c:\users\aliw\desktop\labo1\parcial wpp\mascotasclientes.c
+	"mascotas.h"
+
+1589423709 c:\users\aliw\desktop\labo1\parcial wpp\mascotasclientes.h
+	"mascotas.h"
+

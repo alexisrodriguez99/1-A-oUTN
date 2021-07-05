@@ -1,0 +1,6 @@
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Gonzalez.Teti.Florencia.SP.LabII.2020\Entidades1\bin\Debug\Entidades1.dll
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Gonzalez.Teti.Florencia.SP.LabII.2020\Entidades1\bin\Debug\Entidades1.pdb
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Gonzalez.Teti.Florencia.SP.LabII.2020\Entidades1\obj\Debug\Entidades1.csprojAssemblyReference.cache
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Gonzalez.Teti.Florencia.SP.LabII.2020\Entidades1\obj\Debug\Entidades1.csproj.CoreCompileInputs.cache
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Gonzalez.Teti.Florencia.SP.LabII.2020\Entidades1\obj\Debug\Entidades1.dll
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Gonzalez.Teti.Florencia.SP.LabII.2020\Entidades1\obj\Debug\Entidades1.pdb

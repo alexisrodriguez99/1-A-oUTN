@@ -1,0 +1,10 @@
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\Probar\bin\Debug\Probar.exe.config
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\Probar\bin\Debug\Probar.exe
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\Probar\bin\Debug\Probar.pdb
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\Probar\bin\Debug\ModeloParcial.dll
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\Probar\bin\Debug\ModeloParcial.pdb
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\Probar\obj\Debug\Probar.csprojAssemblyReference.cache
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\Probar\obj\Debug\Probar.csproj.CoreCompileInputs.cache
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\Probar\obj\Debug\Probar.csproj.CopyComplete
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\Probar\obj\Debug\Probar.exe
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\Probar\obj\Debug\Probar.pdb

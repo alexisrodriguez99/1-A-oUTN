@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1588860763 source:c:\users\aliw\desktop\labo1\clase 13\proveedor.c
+	"proveedor.h"
+	<stdio.h>
+	<string.h>
+
+1588864253 source:c:\users\aliw\desktop\labo1\clase 13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"productos.h"
+	"proveedor.h"
+
+1588858599 c:\users\aliw\desktop\labo1\clase 13\productos.h
+
+1588858231 c:\users\aliw\desktop\labo1\clase 13\proveedor.h
+
+1588860763 source:c:\users\aliw\desktop\labo1\clase 13\productos.c
+	<stdio.h>
+	<string.h>
+	"productos.h"
+
+1588867059 source:c:\users\aliw\desktop\labo1\clase 13\proveedoresxproducto.c
+	"proveedoresxproducto.h"
+
+1588866894 c:\users\aliw\desktop\labo1\clase 13\proveedoresxproducto.h
+	"productos.h"
+

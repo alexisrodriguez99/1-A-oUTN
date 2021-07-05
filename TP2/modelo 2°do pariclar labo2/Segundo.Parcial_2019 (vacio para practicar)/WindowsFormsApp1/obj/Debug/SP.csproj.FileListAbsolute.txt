@@ -1,0 +1,21 @@
+C:\Users\pc\Desktop\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.SegundoParcial.resources
+C:\Users\pc\Desktop\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.Properties.Resources.resources
+C:\Users\pc\Desktop\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.exe
+C:\Users\pc\Desktop\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.pdb
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.csprojAssemblyReference.cache
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.SegundoParcial.resources
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.Properties.Resources.resources
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.csproj.GenerateResource.cache
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.csproj.CoreCompileInputs.cache
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.exe
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.pdb
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\bin\Debug\SP.exe.config
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\bin\Debug\SP.exe
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\bin\Debug\SP.pdb
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\bin\Debug\Entidades.dll
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\bin\Debug\Entidades.pdb
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\bin\Debug\Entidades.dll.config
+C:\Users\Aliw\Desktop\modelo 2°do pariclar labo2\Segundo.Parcial_2019 (vacio para practicar)\WindowsFormsApp1\obj\Debug\SP.csproj.CopyComplete

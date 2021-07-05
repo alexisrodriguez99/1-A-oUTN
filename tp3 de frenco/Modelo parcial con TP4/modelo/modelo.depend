@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1593161936 source:c:\users\franco\desktop\modelo parcial con tp4\modelo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593089730 c:\users\franco\desktop\modelo parcial con tp4\modelo\linkedlist.h
+
+1593158837 source:c:\users\franco\desktop\modelo parcial con tp4\modelo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vuelo.h"
+
+1593154003 source:c:\users\franco\desktop\modelo parcial con tp4\modelo\piloto.c
+	"Piloto.h"
+
+1593159052 source:c:\users\franco\desktop\modelo parcial con tp4\modelo\vuelo.c
+	"Vuelo.h"
+
+1593086918 c:\users\franco\desktop\modelo parcial con tp4\modelo\piloto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593095377 c:\users\franco\desktop\modelo parcial con tp4\modelo\vuelo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Piloto.h"
+	"Input.h"
+
+1593077420 source:c:\users\franco\desktop\modelo parcial con tp4\modelo\input.c
+	"input.h"
+
+1593077420 c:\users\franco\desktop\modelo parcial con tp4\modelo\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1593077420 source:c:\users\aliw\desktop\tp3 de frenco\modelo parcial con tp4\modelo\input.c
+	"input.h"
+
+1593077420 c:\users\aliw\desktop\tp3 de frenco\modelo parcial con tp4\modelo\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1593161936 source:c:\users\aliw\desktop\tp3 de frenco\modelo parcial con tp4\modelo\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593089730 c:\users\aliw\desktop\tp3 de frenco\modelo parcial con tp4\modelo\linkedlist.h
+
+1593158837 source:c:\users\aliw\desktop\tp3 de frenco\modelo parcial con tp4\modelo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vuelo.h"
+
+1593095377 c:\users\aliw\desktop\tp3 de frenco\modelo parcial con tp4\modelo\vuelo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Piloto.h"
+	"Input.h"
+
+1593086918 c:\users\aliw\desktop\tp3 de frenco\modelo parcial con tp4\modelo\piloto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593549139 source:c:\users\aliw\desktop\tp3 de frenco\modelo parcial con tp4\modelo\piloto.c
+	"Piloto.h"
+
+1593159052 source:c:\users\aliw\desktop\tp3 de frenco\modelo parcial con tp4\modelo\vuelo.c
+	"Vuelo.h"
+

@@ -1,0 +1,23 @@
+FD00FF-----APAGAR
+FD807F---- VOL+
+FD40BF-----FUNC/STOP
+FD20DF----- |<<
+FDA05F----- > ||
+FD609F----- >>|
+FD10EF----- ^(pero para abajo)
+FD906F----- VOL-
+FD50AF----- ^
+FDB04F----- EQ
+FD708F----- ST/REPT
+_____NUMEROS______
+
+FD30CF---- 0
+FD08F7---- 1
+FD8877---- 2
+FD48B7---- 3
+FD28D7---- 4
+FDA857---- 5
+FD6897---- 6
+FD18E7---- 7
+FD9867---- 8
+FD58A7---- 9

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1589228786 source:c:\users\aliw\desktop\labo1\practica 1\instrumento.c
+
+1589321545 source:c:\users\aliw\desktop\labo1\practica 1\main.c
+	"orquesta.h"
+
+1589228753 source:c:\users\aliw\desktop\labo1\practica 1\musico.c
+
+1589323662 c:\users\aliw\desktop\labo1\practica 1\orquesta.h
+
+1589323767 source:c:\users\aliw\desktop\labo1\practica 1\orquesta.c
+	"orquesta.h"
+	"input.h"
+
+1589323662 source:c:\users\aliw\desktop\labo1\practica 1\input.c
+	"input.h"
+
+1589323662 c:\users\aliw\desktop\labo1\practica 1\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589321418 c:\users\aliw\desktop\labo1\practica 1\input.c
+	"input.h"
+

@@ -1,0 +1,6 @@
+C:\Users\flore\Desktop\Gonzalez.Teti.Florencia.SP.LabII.2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\flore\Desktop\Gonzalez.Teti.Florencia.SP.LabII.2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\flore\Desktop\Gonzalez.Teti.Florencia.SP.LabII.2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\Gonzalez.Teti.Florencia.SP.LabII.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\flore\Desktop\Gonzalez.Teti.Florencia.SP.LabII.2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\flore\Desktop\Gonzalez.Teti.Florencia.SP.LabII.2020\Entidades\obj\Debug\Entidades.pdb

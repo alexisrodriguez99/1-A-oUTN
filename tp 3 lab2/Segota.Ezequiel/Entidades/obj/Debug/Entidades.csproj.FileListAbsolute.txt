@@ -1,0 +1,18 @@
+C:\Users\Ezequiel\Desktop\SP.LabII.2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\Ezequiel\Desktop\SP.LabII.2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Ezequiel\Desktop\SP.LabII.2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\SP.LabII.2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\SP.LabII.2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\Ezequiel\Desktop\SP.LabII.2020\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Ezequiel\Desktop\Segota.Ezequiel\Entidades\bin\Debug\Entidades.dll
+C:\Users\Ezequiel\Desktop\Segota.Ezequiel\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Ezequiel\Desktop\Segota.Ezequiel\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\Segota.Ezequiel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\Segota.Ezequiel\Entidades\obj\Debug\Entidades.dll
+C:\Users\Ezequiel\Desktop\Segota.Ezequiel\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Aliw\Desktop\tp 3 lab2\Segota.Ezequiel\Entidades\bin\Debug\Entidades.dll
+C:\Users\Aliw\Desktop\tp 3 lab2\Segota.Ezequiel\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Aliw\Desktop\tp 3 lab2\Segota.Ezequiel\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Aliw\Desktop\tp 3 lab2\Segota.Ezequiel\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Aliw\Desktop\tp 3 lab2\Segota.Ezequiel\Entidades\obj\Debug\Entidades.dll
+C:\Users\Aliw\Desktop\tp 3 lab2\Segota.Ezequiel\Entidades\obj\Debug\Entidades.pdb

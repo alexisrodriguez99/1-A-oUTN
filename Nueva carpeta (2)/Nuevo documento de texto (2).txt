@@ -1,0 +1,3 @@
+explicito coloco en parentesis lo que casteo
+
+implisito es directa sin parentesis, sin castear

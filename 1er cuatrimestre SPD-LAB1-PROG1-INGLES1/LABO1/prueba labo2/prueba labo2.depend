@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1593693210 source:c:\users\aliw\desktop\labo1\prueba labo2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593698800 c:\users\aliw\desktop\labo1\prueba labo2\linkedlist.h
+
+1593696285 source:c:\users\aliw\desktop\labo1\prueba labo2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+
+1593697588 source:c:\users\aliw\desktop\labo1\prueba labo2\controller.c
+	"controller.h"
+	"linkedList.h"
+	"piloto.h"
+
+1593697624 source:c:\users\aliw\desktop\labo1\prueba labo2\piloto.c
+	"piloto.h"
+
+1593697588 c:\users\aliw\desktop\labo1\prueba labo2\piloto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedList.h"
+
+1593697588 source:c:\users\aliw\desktop\labo1\prueba labo2\vuelo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vuelo.h"
+	"piloto.h"
+
+1593698800 c:\users\aliw\desktop\labo1\prueba labo2\vuelo.h
+	"linkedList.h"
+
+1593695422 source:c:\users\aliw\desktop\labo1\prueba labo2\parser.c
+	"parser.h"
+	"piloto.h"
+
+1593695412 c:\users\aliw\desktop\labo1\prueba labo2\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"vuelo.h"
+	"linkedList.h"
+
+1593698800 c:\users\aliw\desktop\labo1\prueba labo2\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+

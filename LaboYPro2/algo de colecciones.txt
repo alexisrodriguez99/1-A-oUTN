@@ -1,0 +1,21 @@
+clase colleciones:
+
+no puedo usar el foreach para moditificar, ni quitar o ingresar
+valores, ya que se romperia, para eso uno un for
+pila.Pop=saco un elemento de la pila pero lo retorno(creo que el ultimo)
+LIFO(lo contrario)
+tipo pila (stack)
+FIFO(primeo en entrar primero en salir)
+son de tipo cola (Enqeue)
+cola.dequeue = returna el elemento que va a eliminar
+cola.enqueue = ingresa un elemento a la lista
+
+
+lista dinamica
+vec.add(1); agrega un elemeto en la coleccion
+
+proceso de boxing cuando guardo en una caja un tipo object
+algo que es de tipo persona, int o etc
+
+proceso unboxing
+estos metodos son muy costosos a la hora de copilar

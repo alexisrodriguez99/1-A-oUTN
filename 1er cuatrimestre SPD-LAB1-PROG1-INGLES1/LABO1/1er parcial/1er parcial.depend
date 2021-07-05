@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1590000309 source:c:\users\aliw\desktop\labo1\1er parcial\camiones.c
+	"camiones.h"
+
+1589938177 source:c:\users\aliw\desktop\labo1\1er parcial\main.c
+	"CamionxChofer.h"
+
+1590000484 source:c:\users\aliw\desktop\labo1\1er parcial\choferes.c
+	"choferes.h"
+	<stdio.h>
+	<stdlib.h>
+
+1590000831 c:\users\aliw\desktop\labo1\1er parcial\choferes.h
+	<string.h>
+
+1589938081 c:\users\aliw\desktop\labo1\1er parcial\camiones.h
+	<stdio.h>
+	<stdlib.h>
+	"choferes.h"
+
+1589938112 source:c:\users\aliw\desktop\labo1\1er parcial\camionxchofer.c
+	"CamionxChofer.h"
+
+1589938112 c:\users\aliw\desktop\labo1\1er parcial\camionxchofer.h
+	"camiones.h"
+

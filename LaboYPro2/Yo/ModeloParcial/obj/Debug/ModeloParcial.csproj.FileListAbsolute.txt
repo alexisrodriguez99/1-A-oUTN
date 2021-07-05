@@ -1,0 +1,6 @@
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\ModeloParcial\bin\Debug\ModeloParcial.dll
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\ModeloParcial\bin\Debug\ModeloParcial.pdb
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\ModeloParcial\obj\Debug\ModeloParcial.csprojAssemblyReference.cache
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\ModeloParcial\obj\Debug\ModeloParcial.csproj.CoreCompileInputs.cache
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\ModeloParcial\obj\Debug\ModeloParcial.dll
+C:\Users\Aliw\Desktop\LaboYPro2\Yo\ModeloParcial\obj\Debug\ModeloParcial.pdb

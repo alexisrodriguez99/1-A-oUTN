@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1593644747 source:c:\users\aliw\desktop\labo1\practica2parcial\controller.c
+	"controller.h"
+	"parse.h"
+	"linkedList.h"
+	"post.h"
+	"usuario.h"
+
+1593632345 source:c:\users\aliw\desktop\labo1\practica2parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593632345 c:\users\aliw\desktop\labo1\practica2parcial\linkedlist.h
+
+1593644313 source:c:\users\aliw\desktop\labo1\practica2parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"linkedList.h"
+
+1593643993 source:c:\users\aliw\desktop\labo1\practica2parcial\usuario.c
+	"linkedList.h"
+	"usuario.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593637216 source:c:\users\aliw\desktop\labo1\practica2parcial\post.c
+	"linkedList.h"
+	"post.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593637807 c:\users\aliw\desktop\labo1\practica2parcial\post.h
+
+1593643993 c:\users\aliw\desktop\labo1\practica2parcial\usuario.h
+
+1593637807 source:c:\users\aliw\desktop\labo1\practica2parcial\parse.c
+	"linkedList.h"
+	"parse.h"
+	"usuario.h"
+	"post.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593636060 c:\users\aliw\desktop\labo1\practica2parcial\parse.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedList.h"
+
+1593644224 c:\users\aliw\desktop\labo1\practica2parcial\controller.h
+	"linkedList.h"
+

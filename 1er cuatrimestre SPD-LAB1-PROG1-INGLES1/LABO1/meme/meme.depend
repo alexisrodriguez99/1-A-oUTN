@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1586556233 source:c:\users\aliw\desktop\labo1\meme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,58 @@
+que algo sea estatico, quiere decir que puedo acceder en mi main median el nombre
+de la clase y el ".", siempre y cuendo sea publico ej:NombreClase.AtributoOMedoto
+
+si no es estatico se pone el nombre del metodo o atributo 
+
+se usa this para referirse a un metodo o un atributo no estatico
+por ejemplo: this.algo
+
+los estaticos comparten el espacio en memoria(para todas las instancias 
+comparte el mismo valor)
+lo no estatico tienen diferentes lugares en memoria(no es igual en todas
+las instancias)
+
+solo puedo usar "this" en metodos no estaticos, caso contrario NO
+pero si puedo usar metodos o atributos estaticos en metodos no estaticos NomClase.Algo
+
+nunca un this para inicializar atributos estaticos (en un metodo estatico)
+
+
+los contructores no estaticos inicializa atributos no estaticos
+(se pueden usar el public o paramatros) y viceversa.
+estos constructores estaticos no permiten el public ni parametros
+y se ejecuta la primera vez 
+
+o me dice que es metodo de clase o estatico (o si no es de instancia)
+atributos de instancia
+
+el constructor nos permite instanciar los objetos 
+"instanciar" def:
+merodo de instancia es un metodo no estatico(y requiere crear una clase para sarla)
+class.algo
+------------------------------------------------------------------------------
+SOBRECARGA-SOBRECARGA DE METODOS
+
+lo que importa es: cant-tipo-out o ref-algo mas (ver la repe),posicion
+puedo tener 2 metodos llamos igual y con el mismo retorno, pero tienen que cambiar
+los parametros(el que sea estatico o no, no permite que sea sobrecarga)
+caso contrario lo estaria re-definiendo
+
+---(out como parametro funciona como un punto de C, ya que retorna el valor
+que se paso como parametro, ademas del retorno de la funcion)--
+
+tryParse(strng,out int)->pasa un a string a un int(el "out" es opcional)
+
+SOBRECARGA DE CONSTRUCTORES
+
+-------------------------------------------------------------------------------------
+SOBRECARGA DE OPERADORES
+
+no pueso usar this en un metodo staic, para acceder a esos parametros no estaticos 
+utilizo NombreParametro.MiAtributo
+
+implisito y explisito
+implisito quiere decir que se cambia el tipo de dato sin la necesidad de que
+de castear, ya que no hay perdida de datos 
+explisito me hago cargo de la perdidad de datos y uso (TipoACastear)atributo
+---------------------------------------------------------------------------------
+tiempo de ejecucion y tiempo de depuracion

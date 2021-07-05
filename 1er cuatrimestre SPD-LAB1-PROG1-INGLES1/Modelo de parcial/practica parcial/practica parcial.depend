@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1589392094 source:c:\users\franco\desktop\modelo de parcial\practica parcial\input.c
+	"input.h"
+
+1589382148 c:\users\franco\desktop\modelo de parcial\practica parcial\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589392872 source:c:\users\franco\desktop\modelo de parcial\practica parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ClientesMascotas.h"
+
+1589392845 c:\users\franco\desktop\modelo de parcial\practica parcial\clientes.h
+	"Input.h"
+
+1589393833 c:\users\franco\desktop\modelo de parcial\practica parcial\mascotas.h
+	"Input.h"
+
+1589393514 source:c:\users\franco\desktop\modelo de parcial\practica parcial\clientes.c
+	"Clientes.h"
+
+1589393833 source:c:\users\franco\desktop\modelo de parcial\practica parcial\mascotas.c
+	"Mascotas.h"
+
+1589390402 source:c:\users\franco\desktop\modelo de parcial\practica parcial\clientesmascotas.c
+	"ClientesMascotas.h"
+
+1589391987 c:\users\franco\desktop\modelo de parcial\practica parcial\clientesmascotas.h
+	"Clientes.h"
+	"Mascotas.h"
+	"Input.h"
+
+1589393514 source:c:\users\aliw\desktop\modelo de parcial\practica parcial\clientes.c
+	"Clientes.h"
+
+1589392845 c:\users\aliw\desktop\modelo de parcial\practica parcial\clientes.h
+	"Input.h"
+
+1589382148 c:\users\aliw\desktop\modelo de parcial\practica parcial\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589423396 source:c:\users\aliw\desktop\modelo de parcial\practica parcial\clientesmascotas.c
+	"ClientesMascotas.h"
+
+1589391987 c:\users\aliw\desktop\modelo de parcial\practica parcial\clientesmascotas.h
+	"Clientes.h"
+	"Mascotas.h"
+	"Input.h"
+
+1589393833 c:\users\aliw\desktop\modelo de parcial\practica parcial\mascotas.h
+	"Input.h"
+
+1589392094 source:c:\users\aliw\desktop\modelo de parcial\practica parcial\input.c
+	"input.h"
+
+1589393920 source:c:\users\aliw\desktop\modelo de parcial\practica parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ClientesMascotas.h"
+
+1589393833 source:c:\users\aliw\desktop\modelo de parcial\practica parcial\mascotas.c
+	"Mascotas.h"
+
